@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9bd830a9-f27f-4559-b0e8-df123c85688f" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Heima IT/01_你好Python/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Heima IT/01_你好Python/.idea/PythonSceneConfigState.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Heima IT/01_你好Python/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Heima IT/01_你好Python/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Heima IT/01_你好Python/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Heima IT/01_你好Python/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Heima IT/01_你好Python/Hello_world.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Heima IT/02_Python入门语法/01_Python中的字面量.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Heima IT/02_Python入门语法/02_Python中的注释.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Heima IT/02_Python入门语法/03_Python中的变量.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Heima IT/02_Python入门语法/04_Python中的数据类型.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Heima IT/02_Python入门语法/05_Python中的数据类型转换.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Heima IT/02_Python入门语法/06_Python中的标识符.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Heima IT/02_Python入门语法/07_Python中的运算符.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.1operate_list/magicians.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.2exercise/4-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.2exercise/4-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.3exercise/4-3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.3exercise/4-4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.3exercise/4-5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.3exercise/4-6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.3exercise/4-7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.3exercise/4-8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.3exercise/4-9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.3number_list/even_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.3number_list/numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.3number_list/squares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.4exercise/4-10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.4exercise/4-11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.4part_list/foods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.4part_list/players.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.1hello_world/.idea/2.1hello_world.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../2.1hello_world/.idea/2.1hello_world.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.1hello_world/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2.1hello_world/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2exercise/.idea/2.2exercise.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../2.2exercise/.idea/2.2exercise.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2exercise/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2.2exercise/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2variable/.idea/2.2variable.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../2.2variable/.idea/2.2variable.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.2variable/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2.2variable/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.3exercise/.idea/2.3exercise.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../2.3exercise/.idea/2.3exercise.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.3exercise/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2.3exercise/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.3string/.idea/2.3string.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../2.3string/.idea/2.3string.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.3string/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2.3string/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.4exercise/.idea/2.4exercise.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../2.4exercise/.idea/2.4exercise.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.4exercise/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2.4exercise/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.4number/.idea/2.4number.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../2.4number/.idea/2.4number.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.4number/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2.4number/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5exegesis/.idea/2.5exegesis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../2.5exegesis/.idea/2.5exegesis.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.5exegesis/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2.5exegesis/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.1exercis/.idea/3.1exercis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../3.1exercis/.idea/3.1exercis.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.1exercis/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3.1exercis/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.1list/.idea/3.1list.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../3.1list/.idea/3.1list.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.1list/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3.1list/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.2exercise/.idea/3.2exercise.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../3.2exercise/.idea/3.2exercise.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.2exercise/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3.2exercise/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.2modify_list/.idea/3.2modify_list.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../3.2modify_list/.idea/3.2modify_list.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.2modify_list/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3.2modify_list/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.3exercise/.idea/3.3exercise.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../3.3exercise/.idea/3.3exercise.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.3exercise/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3.3exercise/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.3organization_list/.idea/3.3organization_list.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../3.3organization_list/.idea/3.3organization_list.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3.3organization_list/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3.3organization_list/.idea/misc.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2ZXW7PqhyByIa64RaMGgYeUOJR1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Python.4-2">
+    <configuration name="4-1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="4.2exercise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4-1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="4-2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="4.2exercise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4-2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.4-2" />
+        <item itemvalue="Python.4-1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="9bd830a9-f27f-4559-b0e8-df123c85688f" name="变更" comment="" />
+      <created>1702568736410</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702568736410</updated>
+      <workItem from="1702568737743" duration="407000" />
+      <workItem from="1702569214147" duration="30000" />
+      <workItem from="1702827277323" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/4_1exercise$4_1.coverage" NAME="4-1 覆盖结果" MODIFIED="1702568938682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/4_1exercise$4_2.coverage" NAME="4-2 覆盖结果" MODIFIED="1702569139115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
